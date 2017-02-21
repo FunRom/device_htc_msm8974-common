@@ -36,9 +36,6 @@ PRODUCT_AAPT_PREF_CONFIG := xxhdpi
 # Dot View Case
 PRODUCT_PACKAGES += Dotcase
 
-# Gesture Handler
-PRODUCT_PACKAGES += GestureHandler
-
 # Ramdisk
 PRODUCT_PACKAGES += \
     fstab.qcom \
